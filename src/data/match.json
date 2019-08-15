@@ -1,0 +1,17 @@
+{
+    "match": {
+        "id": 13557134,
+        "team_1_id": 1876243,
+        "team_1_name": "Dowling",
+        "team_1_is_home": true,
+        "team_2_id": 1876249,
+        "team_2_name": "Iowa City",
+        "status": "scheduled",
+        "start_date_time": "2016-04-28T13:15:00-05:00",
+        "local_timezone": "US/Central",
+        "home_team_logo": "https://cdn3.sportngin.com/attachments/team/4905/0843/dowling.jpg",
+        "away_team_logo": "https://cdn3.sportngin.com/attachments/team/4834/5035/B-EtG81CYAEUUmr.jpg",
+        "home_team_logo_large_square": "https://cdn3.sportngin.com/attachments/team/4905/0843/dowling_large_square.jpg",
+        "away_team_logo_large_square": "https://cdn3.sportngin.com/attachments/team/4834/5035/B-EtG81CYAEUUmr_large_square.jpg"
+    }
+}
